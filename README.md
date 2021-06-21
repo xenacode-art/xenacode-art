@@ -28,7 +28,8 @@ PYTHON       |     Other skills  |
  ![image](https://user-images.githubusercontent.com/67270054/122732950-a454eb00-d274-11eb-8170-8612f5dbfabd.png)
  ![image](https://user-images.githubusercontent.com/67270054/122735145-ab7cf880-d276-11eb-9908-885e672f0b41.png)
  ![image](https://user-images.githubusercontent.com/67270054/122733014-b2a30700-d274-11eb-99e2-f499590fbab8.png)
- ![image](https://user-images.githubusercontent.com/67270054/122795990-cfabfa00-d2b5-11eb-836a-d0822cf7af4e.png)
+ ![image](https://user-images.githubusercontent.com/67270054/122803819-09353300-d2bf-11eb-89e1-7272622373b8.png)
+
 
 
          
