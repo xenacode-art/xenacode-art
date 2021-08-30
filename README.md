@@ -30,7 +30,9 @@ PYTHON       |     Other skills  |
  ![image](https://user-images.githubusercontent.com/67270054/122735145-ab7cf880-d276-11eb-9908-885e672f0b41.png)
  ![image](https://user-images.githubusercontent.com/67270054/122804054-4e596500-d2bf-11eb-800c-362c63adec3a.png)
  ![image](https://user-images.githubusercontent.com/67270054/122803819-09353300-d2bf-11eb-89e1-7272622373b8.png)
-
+ 
+<a href="https://mbsy.co/3tL7Nl" target="_blank" style="outline:none;border:none;">
+<img src="https://ambassador-api.s3.amazonaws.com/uploads/marketing/12746/2020_06_25_16_58_27.png" alt="CompTIA" border="0" /></a>
 
 
          
