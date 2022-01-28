@@ -25,7 +25,6 @@ I love listening to music  and security podcasts while working.
 **🎧 My recently played**
 
 
-[![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=60c4w28s5vmzo03qrlssmief6&count=3)](https://open.spotify.com/user/31mfniqsjvmap2i7lpcdu2mfdwwy)
 
 
 <h1 align= "center"><b>Tools 🛠</b></h1>
