@@ -12,7 +12,7 @@ Thanks for stopping 🤝
 </p>
 
 
-**😌 Sneakpeak about me**
+**😌 About Me**
 
 
 Just call me xinacod! Am a cyber-security specialist and Love feeding my curiousity by leraning how thing works. <br>
@@ -38,8 +38,6 @@ I love listening to music while working.
 
 
 **⚡️ Languages:**
-
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
 
@@ -82,51 +80,31 @@ I love listening to music while working.
 
 <p>My weekly language stats based on Wakatime</p>
 
-
-
 <a href="https://github.com/xenacode-art">
 
 
 
   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=xenacod" />
 
-
-
 </a>
 
 
 **😎Reach me**
 
-
 <a href="https://twitter.com/xenacod">
 
-
-
-  <img align="left" alt="klefcodes | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-
-
-
+  <img align="left" alt="xenacod | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-
-
 
 <a href="https://www.linkedin.com/in/eric obinna">
 
-
-
-  <img align="left" alt="klefcodes's LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-
-
-
+  <img align="left" alt="eric-obinna  LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 
 
 
 <a href="https://www.instagram.com/xinacod_">
-
-
-
-  <img align="left" alt="klefcodes's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  <img align="left" alt="xinacod_ Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 
 
 
