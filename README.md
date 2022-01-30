@@ -1,16 +1,16 @@
 <h1 align= "center"><b> XENACOD </b></h1>
-<h1 align="center"> <b>CyberSpace </b> </h1>
-
+<h1  align="center"> <b>CyberSpace </b> </h1>
 <p align="center">
 
 Thanks For Stopping 🤝
 
 </p>
-
 <p>
+  
 **😌 About Me**
 <br>
 <br/><a href="https://bugcrowd.com/xenacod">💻 Bug Hunter</a>, <a href="https://www.linkedin.com/in/eric-obinna/">🔒 Cybersecurity Professional</a></h2>
+
 <p>Just call me xinacod! Am a cyber-security specialist and Love feeding my curiousity by learning how thing works.</p>
 </p>
 
@@ -41,9 +41,11 @@ Thanks For Stopping 🤝
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 
 
+
 **🚀 Databases:**
 
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"></code>  <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+
 
 
 **Linux Admin**
