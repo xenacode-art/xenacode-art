@@ -3,29 +3,22 @@
 
 <p align="center">
 
-
-
-Thanks for stopping 🤝
-
-
+Thanks For Stopping 🤝
 
 </p>
 
 
 **😌 About Me**
-
-
-Just call me xinacod! Am a cyber-security specialist and Love feeding my curiousity by learning how thing works. <br>
+<br>
 <br/><a href="https://bugcrowd.com/xenacod">💻 Bug Hunter</a>, <a href="https://www.linkedin.com/in/eric-obinna/">🔒 Cybersecurity Professional</a></h2>
-
-
-I love listening to music  and cyber-security podcasts while working.
-
+<p>Just call me xinacod! Am a cyber-security specialist and Love feeding my curiousity by learning how thing works.</p>
 
 
 **🎧 My recently played**
-![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=xenacod&width=600)
 
+<p> I love listening to music  and cyber-security podcasts while working.</p>
+
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31p6gpajtjtftfvmclim5p62d5ey)
 
 
 
