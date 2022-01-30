@@ -7,12 +7,12 @@ Thanks For Stopping 🤝
 
 </p>
 
-
+<p>
 **😌 About Me**
 <br>
 <br/><a href="https://bugcrowd.com/xenacod">💻 Bug Hunter</a>, <a href="https://www.linkedin.com/in/eric-obinna/">🔒 Cybersecurity Professional</a></h2>
 <p>Just call me xinacod! Am a cyber-security specialist and Love feeding my curiousity by learning how thing works.</p>
-
+</p>
 
 **🎧 My recently played**
 
