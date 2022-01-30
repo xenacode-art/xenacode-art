@@ -33,13 +33,16 @@ Thanks For Stopping 🤝
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="50" src="https://user-images.githubusercontent.com/67270054/151716619-7e695f24-68f2-445e-999f-ac86bf128b04.jpg"></code>
 <code><img height="50" src="https://user-images.githubusercontent.com/67270054/151716750-114b5d47-7518-4cb8-9853-bd3abf9886de.png"></code>
+<code><img height="50" src="https://user-images.githubusercontent.com/67270054/151716984-043ee88d-2a35-4075-bde7-9c44f9d1821c.png"></code>
+
 
 **🌱 Frameworks:**
 
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png"></code>
-
+<code><img height="50" src="https://user-images.githubusercontent.com/67270054/151717034-45ef9711-36f8-4c5f-a7fb-484419b816f2.png"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-
+<code><img height="50" src="https://user-images.githubusercontent.com/67270054/151717097-a1a4a621-9f8b-48a5-b8ab-dcf5bf489ac3.jpg"></code>
+<code><img height="50" src="https://user-images.githubusercontent.com/67270054/151717141-e1ee22bc-74d5-485a-8312-c510ec52de9f.jpg"></code>
 
 
 **🚀 Databases:**
