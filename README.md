@@ -16,6 +16,7 @@ Thanks for stopping 🤝
 
 
 Just call me xinacod! Am a cyber-security specialist and Love feeding my curiousity by learning how thing works. <br>
+<br/><a href="https://bugcrowd.com/xenacod">💻 Bug Hunter</a>, <a href="https://www.linkedin.com/in/eric-obinna/">🔒 Cybersecurity Professional</a></h2>
 
 
 I love listening to music  and cyber-security podcasts while working.
