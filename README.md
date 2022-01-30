@@ -18,7 +18,7 @@ Thanks for stopping 🤝
 Just call me xinacod! Am a cyber-security specialist and Love feeding my curiousity by learning how thing works. <br>
 
 
-I love listening to music  and security podcasts while working.
+I love listening to music  and cyber-security podcasts while working.
 
 
 
