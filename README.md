@@ -2,7 +2,7 @@
 <h1  align="center"> <b>CyberSpace </b> </h1>
 <p align="center">
 
-Thanks For Stopping 🤝
+Thanks For Stopping🤝
 
 </p>
 <p>
