@@ -60,10 +60,8 @@ Thanks For Stopping🤝
 <p>My weekly language stats based on Wakatime</p>
 
 <a href="https://github.com/xenacode-art">
-
-
-
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=xenacod" />
+<img align ="right" src="https://github-readme-stats.vercel.app/api/wakatime?username=xenacode" alt="Jokes Card" /> 
+ <!-- <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=xenacod" />-->
 
 </a>
 
