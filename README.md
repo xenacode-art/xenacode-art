@@ -13,13 +13,12 @@ Thanks For Stopping🤝
 <p>Just call me xinacod! Am a cyber-security specialist and Love feeding my curiousity by learning how thing works.</p>
 </p>
 
+
 **🎧 My recently played**
 
 <p> I love listening to music  and cyber-security podcasts while working.</p>
 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31p6gpajtjtftfvmclim5p62d5ey)
-
-
 
 <h1 align= "center"><b>Tools 🛠</b></h1>
 <p align="center">
