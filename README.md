@@ -57,19 +57,28 @@ Thanks For Stopping🤝
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png"></code>  <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>  <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>  <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png"></code>
 
 
+
+
+
+<p>
 **💻 Works **
 <p align="left" height='130px'> <img src="https://github-readme-stats.vercel.app/api?username=xenacode-art&show_icons=true&hide_title=true&include_all_commits=true&line_height=21&count_private=true&theme=radical" alt="xenacode-art"/> </p>
 
+</p>
 
+
+
+<p>
+  
+  
 **🎉My- Stats**
 
 <p>My weekly language stats based on Wakatime</p>
 
-<!-- <a href="https://github.com/xenacode-art"> -->
-<!-- <img align ="right" src="https://github-readme-stats.vercel.app/api/wakatime?username=xenacod" alt="Jokes Card" />  -->
  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=xenacod" />
 
 </a>
+
 
 
 **😎Reach me**
@@ -90,11 +99,8 @@ src="https://img.shields.io/github/last-commit/xenacode-art/XENACODE-ART" alt="x
 </a>
 
 
-
 <a href="https://www.instagram.com/xinacod_">
   <img align="left" alt="xinacod_ Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-
-
 
 </a>
 
