@@ -10,7 +10,7 @@ Thanks For Stopping🤝
 <br>
 <br/><a href="https://bugcrowd.com/xenacod">💻 Bug Hunter</a>, <a href="https://www.linkedin.com/in/eric-obinna/">🔒 Cybersecurity Professional</a></h2>
 
-<p>Just call me xinacod! Am a cyber-security specialist and Love feeding my curiousity by learning how thing works.</p>
+<p>Just call me xinacod! Am a cyber-security specialist, Penetration Tester that Love feeding my curiousity by learning how things work and solving problems.</p>
 </p>
 
 
@@ -20,7 +20,7 @@ Thanks For Stopping🤝
 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31p6gpajtjtftfvmclim5p62d5ey)
 
-<h1 align= "center"><b>Tools 🛠</b></h1>
+<h1 align= "center"><b>Tools/Frameworks 🛠</b></h1>
 <p align="center">
 </p>
 
@@ -58,17 +58,10 @@ Thanks For Stopping🤝
 
 
 
-
-
-<p>
-**💻 Works **
+<h1 align="center"><b> Contributions 💻 </b></h1>
 <p align="left" height='130px'> <img src="https://github-readme-stats.vercel.app/api?username=xenacode-art&show_icons=true&hide_title=true&include_all_commits=true&line_height=21&count_private=true&theme=radical" alt="xenacode-art"/> </p>
 
-</p>
 
-
-
-<p>
   
   
 **🎉My- Stats**
