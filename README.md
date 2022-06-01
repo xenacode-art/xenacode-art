@@ -14,6 +14,10 @@ Thanks For Stopping🤝
 <p>Just call me xinacod! Am a cyber-security specialist, Penetration Tester that Love feeding my curiousity by learning how things work and solving problems.</p>
 </p>
 
+<p>
+<a href="https://app.daily.dev/xinacod"><img src="https://api.daily.dev/devcards/0c6c10bc1ff4460785e97eaddc5d278d.png?r=gzz" width="400" alt="eric emmanuel's Dev Card"/></a>
+</p>
+
 
 **🎧 My recently played**
 
