@@ -5,7 +5,7 @@ Thanks For Stopping🤝
 </p>
 <p>
   
-**😎 About Me**
+*😎 About Me*
 <br>
 <br/><a href="https://bugcrowd.com/xenacod">💻 Bug Hunter</a>, <a href="https://www.linkedin.com/in/eric-obinna/">🔒 Cybersecurity Professional</a></h2>
 
@@ -17,7 +17,7 @@ Thanks For Stopping🤝
 </p>
 
 
-**🎧 My recently played**
+*🎧 My recently played*
 
 <p> I love listening to music  and cyber-security podcasts while working.</p>
 
@@ -28,7 +28,7 @@ Thanks For Stopping🤝
 </p>
 
 
-**⚡️ Languages:**
+*⚡️ Languages:*
 
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
