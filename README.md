@@ -13,7 +13,7 @@ Thanks For Stopping🤝
 </p>
 
 <p>
-  <a href="https://app.daily.dev/xinacod"><img src="https://api.daily.dev/devcards/0c6c10bc1ff4460785e97eaddc5d278d.png?r=i4q" width="400" alt="eric emmanuel's Dev Card"/></a>
+  <a href="https://app.daily.dev/xinacod"><img src="https://api.daily.dev/devcards/0c6c10bc1ff4460785e97eaddc5d278d.png?r=yui" width="400" alt="eric emmanuel's Dev Card"/></a>
 </p>
 
 
