@@ -17,7 +17,7 @@
 </p>
 
 
-*🎧 My recently played*
+<b>*🎧 My recently played* </b>
 
 <p> I love listening to music  and cyber-security podcasts while working.</p>
 
