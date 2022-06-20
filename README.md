@@ -16,7 +16,6 @@
   <a href="https://app.daily.dev/xinacod"><img src="https://api.daily.dev/devcards/0c6c10bc1ff4460785e97eaddc5d278d.png?r=yui" width="400" alt="eric emmanuel's Dev Card"/></a>
 </p>
 
-
 <b>*🎧 Recently played* </b>
 
 <p> I love listening to music  and cyber-security podcasts while working.</p>
@@ -100,4 +99,3 @@ src="https://img.shields.io/github/last-commit/xenacode-art/XENACODE-ART" alt="x
 <a href="https://www.instagram.com/xinacod_">
   <img align="left" alt="xinacod_ Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-
