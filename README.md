@@ -24,8 +24,8 @@
 <h1 align= "center"><b>Tools/Frameworks 🛠</b></h1>
 <p align="center">
 </p>
-<codersrank-skills-chart username="xenacode-art"></codersrank-skills-chart>https://cr-skills-chart-widget.azurewebsites.net/api/api?username=xenacode-art
-
+<!-- https://cr-skills-chart-widget.azurewebsites.net/api/api?username="xenacode-art"
+ -->
 *⚡️ Languages:*
 
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
