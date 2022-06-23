@@ -24,8 +24,7 @@
 <h1 align= "center"><b>Tools/Frameworks 🛠</b></h1>
 <p align="center">
 </p>
-
- <a href="https://profile.codersrank.io/user/xenacode-art/"></a>
+<codersrank-skills-chart username="xenacode-art"></codersrank-skills-chart>https://cr-skills-chart-widget.azurewebsites.net/api/api?username=xenacode-art
 
 *⚡️ Languages:*
 
