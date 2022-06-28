@@ -25,6 +25,7 @@
 <p align="center">
 </p>
 
+
 *⚡️ Languages:*
 
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
@@ -48,8 +49,6 @@
 **🚀 Databases:**
 
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"></code>  <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code> <code><img height="50" src="https://user-images.githubusercontent.com/67270054/151717205-97700a8e-3c79-48de-9518-1ac161c9d4e0.jpg"></code><code> <img height="50" src="https://user-images.githubusercontent.com/67270054/151717301-703b09b1-3b95-4f10-9534-37b4ceb3b48e.png"></code>
-
-
 
 
 **Linux Admin**
