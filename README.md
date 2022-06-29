@@ -9,7 +9,11 @@
 <br>
 <br/><a href="https://bugcrowd.com/xenacod">💻 Bug Hunter</a>, <a href="https://www.linkedin.com/in/eric-obinna/">🔒 Cybersecurity Professional</a></h2>
 
-<p>Just call me xinacod! Am a cyber-security specialist, Penetration Tester that Love feeding my curiousity by learning how things work and solving problems.</p>
+<p>
+Just call me xinacod! Am a cyber-security specialist, Penetration Tester that Love feeding my curiousity by learning how things work and solving problems.
+</p>
+
+
 </p>
 
 <p>
