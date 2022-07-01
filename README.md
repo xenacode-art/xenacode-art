@@ -13,7 +13,6 @@
 Just call me xinacod! Am a cyber-security specialist, Penetration Tester that Love feeding my curiousity by learning how things work and solving problems.
 </p>
 
-
 </p>
 
 <p>
