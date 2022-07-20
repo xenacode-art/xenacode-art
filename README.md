@@ -4,7 +4,7 @@
 <b> Thanks For Stopping🤝</b>
 </p>
 <p>
-**😎 About Me**
+*😎 About Me*
 <br>
 <br/><a href="https://bugcrowd.com/xenacod">💻 Bug Hunter</a>, <a href="https://www.linkedin.com/in/eric-obinna/">🔒 Cybersecurity Professional</a></h2>
 
