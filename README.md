@@ -37,7 +37,6 @@ Kaja Obinna is a skilled DevOps engineer proficient in Docker, Python, AWS, Jenk
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 
 
-
 <h1 align="center"><b> Contributions 💻 </b></h1>
 <p align="left" height='130px'> <img src="https://github-readme-stats.vercel.app/api?username=xenacode-art&show_icons=true&hide_title=true&include_all_commits=true&line_height=21&count_private=true&theme=radical" alt="xenacode-art"/> </p>
 
