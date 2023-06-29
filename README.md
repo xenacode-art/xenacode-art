@@ -26,31 +26,16 @@ Kaja Obinna is a skilled DevOps engineer proficient in Docker, Python, AWS, Jenk
 </p>
 
 
-*⚡️ Languages:*
 
 
+
+**DevOps Stack**
+
+<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png"></code>
+<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code> 
+<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 
-
-
-
-**🌱 Frameworks:**
-
-<code><img height="50" src="https://user-images.githubusercontent.com/67270054/151717034-45ef9711-36f8-4c5f-a7fb-484419b816f2.png"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="50" src="https://user-images.githubusercontent.com/67270054/151717097-a1a4a621-9f8b-48a5-b8ab-dcf5bf489ac3.jpg"></code>
-<code><img height="50" src="https://user-images.githubusercontent.com/67270054/151717141-e1ee22bc-74d5-485a-8312-c510ec52de9f.jpg"></code>
-
-
-
-**🚀 Databases:**
-
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"></code>  <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code> <code><img height="50" src="https://user-images.githubusercontent.com/67270054/151717205-97700a8e-3c79-48de-9518-1ac161c9d4e0.jpg"></code><code> <img height="50" src="https://user-images.githubusercontent.com/67270054/151717301-703b09b1-3b95-4f10-9534-37b4ceb3b48e.png"></code>
-
-
-**Linux Admin**
-
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png"></code>  <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>  <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>  <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png"></code>
 
 
 <h1 align="center"><b> Contributions 💻 </b></h1>
