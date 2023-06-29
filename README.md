@@ -1,15 +1,15 @@
 <h1 align= "center"><b> XENACOD </b></h1>
-<h1  align="center"> <b>CyberSpace </b> </h1>
+<h1  align="center"> <b> DEV </b> </h1>
 <p align="center">
 <b> Thanks For Stopping🤝</b>
 </p>
 <p>
- <b>  😎 About Me  </b>
-<br>
-<br/><a href="https://bugcrowd.com/xenacod">💻 Bug Hunter <a href='https://www.linkedin.com/m/in/eric-obinna-6a937720a/'>🔒 Cybersecurity Professional</a></h2>
+ <b> 😎 About Me  </b>
+ 
+ 💻  Site Reliability Engineer</a></h2>
 
 <p>
-Just call me xinacod! Am a cyber-security specialist, Penetration Tester that Love feeding my curiousity by learning how things work and solving problems.
+Kaja Obinna is a skilled DevOps engineer proficient in Docker, Python, AWS, Jenkins, Gradle, Git, Elastic Beanstalk, and Artifactory, driving efficient and scalable solutions with a passion for automation and continuous learning.
 </p>
 
 </p>
