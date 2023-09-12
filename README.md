@@ -55,10 +55,10 @@ Kaja Obinna is a skilled DevOps engineer proficient in Docker, Python, AWS, Jenk
 **😎Reach me**
 
 ![Profile views](https://gpvc.arturio.dev/xenacode-art)
-<p align="left"><img
-src="https://img.shields.io/github/followers/xenacode-art?style=social" alt="xenacode-art" /> </p>
-<p><img
-src="https://img.shields.io/github/last-commit/xenacode-art/XENACODE-ART" alt="xenacode-art" /></p>
+<p align="left">
+ <img src="https://img.shields.io/github/followers/xenacode-art?style=social" alt="xenacode-art" /> </p>
+<p>
+<img src="https://img.shields.io/github/last-commit/xenacode-art/XENACODE-ART" alt="xenacode-art" /></p>
 
 <a href="https://twitter.com/xenacod">
 
