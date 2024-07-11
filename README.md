@@ -9,7 +9,7 @@
  💻  Site Reliability Engineer</a></h2>
 
 <p>
-Kaja Obinna is a skilled DevOps engineer proficient in Docker, Python, AWS, Jenkins, Gradle, Git, Elastic Beanstalk, and Artifactory, driving efficient and scalable solutions with a passion for automation and continuous learning.
+Erik is a skilled DevOps engineer proficient in Docker, Python, AWS, Jenkins, Gradle, Git, Elastic Beanstalk, and Artifactory, driving efficient and scalable solutions with a passion for automation and continuous learning.
 </p>
 
 </p>
