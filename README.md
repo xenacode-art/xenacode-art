@@ -1,4 +1,4 @@
-<h1 align= "center"><b> XENACOD </b></h1>
+<h1 align= "center"><b> XINACOD </b></h1>
 <h1  align="center"> <b> DEV </b> </h1>
 <p align="center">
 <b> Thanks For Stopping🤝</b>
@@ -9,7 +9,7 @@
  💻  Site Reliability Engineer</a></h2>
 
 <p>
-Erik is a skilled SRE | Security engineer proficient in penetration-testing, Docker, Python, AWS, Jenkins, Gradle, Git, Elastic Beanstalk, and Artifactory, driving efficient and scalable solutions with a passion for automation and continuous learning.
+Erik is a skilled SRE | Security engineer proficient in Infrastructure Eng, Docker, Python, AWS, Jenkins, Gradle, Git, Elastic Beanstalk, and Artifactory, driving efficient and scalable solutions with a passion for automation and continuous learning.
 </p>
 
 </p>
