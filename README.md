@@ -1,4 +1,4 @@
-<h1 align= "center"><b> XENACOD </b></h1>
+<h1 align= "center"><b> XINACOD </b></h1>
 <h1  align="center"> <b> DEV </b> </h1>
 <p align="center">
 <b> Thanks For Stopping🤝</b>
