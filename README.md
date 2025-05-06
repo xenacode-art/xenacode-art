@@ -1,10 +1,10 @@
 <h1 align= "center"><b> XENACOD </b></h1>
-<h1  align="center"> <b> DEV </b> </h1>
+<h1  align="center"> <b> SCRIPT </b> </h1>
 <p align="center">
 <b> Thanks For Stopping🤝</b>
 </p>
 <p>
- <b> 😎 About Me  </b>
+ <b> 😎 About   </b>
  
  💻  Site Reliability Engineer</a></h2>
 
