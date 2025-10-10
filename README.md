@@ -18,7 +18,7 @@ Erik is a skilled SRE | Security engineer proficient in Infrastructure Eng, Dock
 
 <b>*🎧 Recently played* </b>
 
-<p> I love listening to music  and cyber-security podcasts while working.</p>
+<p> I love listening to music...</p>
 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31p6gpajtjtftfvmclim5p62d5ey)
 <h1 align= "center"><b>Tools/Frameworks 🛠</b></h1>
